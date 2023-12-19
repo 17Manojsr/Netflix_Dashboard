@@ -15,9 +15,13 @@ Welcome to the Netflix Tableau Dashboard repository! 🎬📊 Explore the exciti
 ## Getting Started
 
 1.Clone the repository to your local machine.
+
 2.Open the Netflix_Dashboard.twb file in Tableau Desktop.
+
 3.Connect to the provided Netflix_Data.csv dataset or replace it with your own data.
+
 4.Customize the dashboard to suit your preferences or analytical needs.
+
 5.Explore the visualizations and uncover the stories within the Netflix dataset.
 
 ## Screenshots
