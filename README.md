@@ -26,7 +26,7 @@ Welcome to the Netflix Tableau Dashboard repository! 🎬📊 Explore the exciti
 
 ## Screenshots
 
-![Netflix_Dashboard](screenshots/DashboadOutput.png)
+![Netflix_Dashboard](Dashboad%20Output.png)
 
 
 ## Contributing
